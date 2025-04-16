@@ -1,5 +1,5 @@
 // src/App.tsx
-import React, { useState, useEffect, ChangeEvent, FormEvent } from 'react';
+import  { useState, useEffect, ChangeEvent, FormEvent } from 'react';
 import './App.css';
 
 // Import background images
